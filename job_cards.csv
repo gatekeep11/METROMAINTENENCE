@@ -1,0 +1,6 @@
+train_id,job_card_id,severity
+TS01,JC-TS01,high
+TS04,JC-TS04,low
+TS12,JC-TS12,medium
+TS23,JC-TS23,high
+TS24,JC-TS24,medium
